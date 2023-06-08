@@ -1,5 +1,5 @@
 # Summer 2023 Internship Projects (Onging)
-Welcome to my repository for my Summer 2023 internship! In this repository, you will find the code for various web development projects that I have worked on during my internship. Each project focuses on different aspects of web development, including HTML/CSS conversion, responsive design, Bootstrap design conversion, jQuery-based app development, PHP, and WordPress.
+Welcome to my repository for my Summer 2023 internship! In this repository, you will find the code for various web development projects that I will be working on during my internship. Each project focuses on different aspects of web development, including HTML/CSS conversion, responsive design, Bootstrap design conversion, jQuery-based app development, PHP, and WordPress.
 
 # Project 1: HTML/CSS Conversion
 Description: This project involved converting a design mockup into a fully functional HTML and CSS website. The goal was to accurately translate the visual design into a responsive and interactive web page.
