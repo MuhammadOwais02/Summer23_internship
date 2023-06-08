@@ -1,0 +1,103 @@
+/* Muhammad Owais Batch 39 */
+
+body {
+    background-color: #589ED9;
+    font-family: Arial, Helvetica, sans-serif;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.666));
+    }
+
+#container {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 200px;
+    text-align:center;
+    }
+
+#header .logo {
+    font-size: 50px;
+    color: #ffffff; 
+}
+
+#header h1{
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    }
+
+#loginform .containerfields {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    
+    }
+
+#loginform .containerfields input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 25px;
+    
+    width: 100%;
+    border: none;
+    font-size: 15px;
+    padding: 0px;
+    margin:0px;
+    outline: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    }
+
+#loginform .containerfields input[type="email"]:hover {
+    background-color: rgb(205, 203, 203);
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+#loginform .containerfields input[type="password"] {
+    border-top:1px solid #ccc;
+}
+
+#loginform .containerfields input[type="password"]:hover {
+    background-color: rgb(205, 203, 203);
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+#loginform input[type="submit"] {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-weight: bold;
+    text-indent: none;
+    font-size: 25px;
+    background-color: #304d64;
+    color: #ffffff;
+
+    width: 100%;
+    border: none;
+    padding: 10px;
+    margin: 12px 0;
+    outline: none;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    border-radius: 10px;
+}
+
+#loginform input[type="submit"]:hover {
+    background-color: #1d2e3b;
+    cursor: pointer;
+    transition: background-color 0.35s ease-in-out;
+}
+
+#footer p{
+    color: rgb(255, 255, 255);
+}
+
+#footer p a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: 600;
+}
+
