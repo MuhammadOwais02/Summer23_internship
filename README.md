@@ -43,7 +43,7 @@ script.js: The JavaScript file with the jQuery code for the application.
 Description: This project involved building dynamic web pages using PHP, a server-side scripting language.
 
 ## Project Files:
-
+N/A
 
 # Project 6: WordPress
 Description: This project focused on developing a website using WordPress, a popular content management system (CMS).
