@@ -48,5 +48,5 @@ N/A
 # Project 6: WordPress
 Description: This project focused on developing a website using WordPress, a popular content management system (CMS).
 
-# #Project Files:
+# Project Files:
 N/A 
