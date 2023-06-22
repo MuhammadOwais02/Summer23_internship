@@ -1,4 +1,4 @@
-# Summer 2023 Internship Projects (Onging)
+# Interns.pk Projects (Onging)
 Welcome to my repository for my Summer 2023 internship! In this repository, you will find the code for various web development projects that I will be working on during my internship. Each project focuses on different aspects of web development, including HTML/CSS conversion, responsive design, Bootstrap design conversion, jQuery-based app development, PHP, and WordPress.
 
 # Project 1: HTML/CSS Conversion
@@ -34,6 +34,8 @@ style.css: Additional CSS styles specific to this project.
 Description: This project focused on building an interactive web application using the jQuery library.
 
 ## Project Files:
+
+Not done yet!!!
 
 index.html: The HTML file containing the structure of the application.
 style.css: The CSS file that handles the presentation.
